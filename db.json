@@ -1,0 +1,15 @@
+{
+  "guests": [
+    {
+      "id": 1,
+      "name": "guest 1",
+      "attending": true
+    },
+
+    {
+      "id": 2,
+      "name": "guest 2",
+      "attending": false
+    }
+  ]
+}
