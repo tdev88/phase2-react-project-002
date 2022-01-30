@@ -11,7 +11,7 @@ function GuestList() {
     };
 
     getGuests();
-  }, []);
+  }, [guests]);
 
   //Fetch Guests
   const fetchGuests = async () => {

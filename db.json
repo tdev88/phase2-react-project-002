@@ -5,11 +5,20 @@
       "name": "guest 1",
       "attending": true
     },
-
     {
       "id": 2,
       "name": "guest 2",
       "attending": false
+    },
+    {
+      "name": "Leanne Graham",
+      "attending": true,
+      "id": 3
+    },
+    {
+      "name": "Ervin Howell",
+      "attending": true,
+      "id": 4
     }
   ]
 }
